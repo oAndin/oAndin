@@ -8,6 +8,4 @@
  
   ![Snake animation](https://github.com/oAndin/oAndin/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
-## If you ever wonder why do i name my "style.css" as "gleidson.css" This might help you to understand!
+   </div>
